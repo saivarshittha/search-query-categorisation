@@ -1,1 +1,1 @@
-# search-query-categorisation
+# Search Query Categorisation
